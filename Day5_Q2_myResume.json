@@ -1,0 +1,78 @@
+[
+    {"personal_Info":{
+        "name" : "S. Vijay",
+        "Designation" : "Full Stack Developer",
+        "Address" : "Salem, Tamilnadu",
+        "Email" : "vijaymayhul@gmail.com",
+        "Phone No" : ["9543072670","8270865909"],
+        "Gender" : "Male",
+        "Marital Status" : "unmarried",
+        "Website" : "https://vijaymayhul.000webhostapp.com/",
+        "LinkedIn" : "vijay-s-96465119a"
+        }
+    },
+    {"Profile" :
+    "Innovative and results-oriented Full-Stack Developer (MEAN) with a passion for optimization and seeking new solutions. Excited to embark on the deployment phase of my career. Ambitious, adventurous, and dedicated, I thrive in fast-paced environments. With a strong focus on attention to detail, I bring energy and enthusiasm to every project. As an advocate for alliteration, I believe in the power of creativity and effective communication."
+    },
+    {"Professional Skills" : {
+        "Front-End" : ["HTML","CSS","Javascript", "Bootstrap", "jQuery", "Angular", "React"],
+        "Back_End" : ["Node-JS", "Express-JS", "Mongoose"],
+        "Programming Languages" : ["Java", "Python", "PHP"],
+        "Databases" : ["MySQL", "MongoDB"],
+        "Version Control System" : ["Git", "GitHub"],
+        "IDE" : ["PyCharm", "Eclipse", "Visual Studio Code"]
+        }
+    },
+    {"Internship" : {
+        "Designation" : "Web Developer",
+        "Company Name" : "Muviereck Technologies",
+        "Description" : "I was done 3 months of Internship as a Web Developer in Muviereck Technologies",
+        "Duration" : "3 Months",
+        "Time Period" : "Dec 2022 - Mar 2023"
+        }
+    },
+    {
+        "Professional_Experience" : {
+            "Designation" : "Senior Associate",
+            "Company Name" : "Knowledge Splice Services Private Limited",
+            "Description" : "I was working under US - Mortgage Process who was handling client escalation emails, checking the Quality of the orders and assigning the orders to the team members. I was handling more than 3 process while I was working there.",
+            "Duration" : "38 Months",
+            "Time Period" : "May 2019 - July 2022"
+            }
+    },
+    {
+        "Acadamics" : 
+        [{"MA English" : {
+            "College/School Name" : "AVS College of Arts & Science",
+            "Percentage" : "67%",
+            "Time Period" : "2017 – 2019",
+            "Place" : "Salem, Tamilnadu"
+            }
+        },
+        {
+            "BA English" : {
+            "College/School Name" : "Government Arts & Science College",
+            "Percentage" : "57%",
+            "Time Period" : "2014 – 2017",
+            "Place" : "Salem, Tamilnadu"
+            }
+        },
+        {"HSC" : {
+            "College/School Name" : "Sri Ramakrishna Saradha Higher Secondary School",
+            "Percentage" : "87%",
+            "Time Period" : "2012 – 2014",
+            "Place" : "Salem, Tamilnadu"
+            }
+        },
+        {"SSLC" : {
+            "College/School Name" : "Manurkula Devangar High School",
+            "Percentage" : "92%",
+            "Time Period" : "2012",
+            "Place" : "Salem, Tamilnadu"
+            }
+        }]
+    },
+    {
+        "Language_Known" : ["Tamil", "English", "Telugu"]
+    }
+]
