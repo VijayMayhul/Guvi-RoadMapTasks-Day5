@@ -2,7 +2,7 @@
 
 var request = new XMLHttpRequest();
 request.overrideMimeType("application/json");
-request.open("GET", "Day5_Q2_myResume.json");
+request.open("GET", "./Day5_Q2_myResume.json");
 request.send();
 // console.log(request);
 request.onload = function(){
